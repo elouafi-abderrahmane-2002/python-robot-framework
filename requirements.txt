@@ -1,0 +1,4 @@
+selenium==4.38.0
+robotframework
+robotframework-seleniumlibrary
+
